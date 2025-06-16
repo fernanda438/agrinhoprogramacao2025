@@ -17,5 +17,3 @@ SOBRE O PROJETO:
 
   >OBJETIVO<
 O projeto foi desenvolvido com a intenção de valorizar o campo, mostrar como ele se conecta com a cidade e destacar sua relevância em nosso cotidiano. Tudo isso por meio de uma experiência visual e interativa, acessível e educativa.
-  >
-- 
