@@ -15,5 +15,5 @@ SOBRE O PROJETO:
 - CAMINHÃO: Direciona o usuário para uma tela onde é possível acessar um quiz interativo, com perguntas sobre o campo e a cidade, basta clicar na imagem presente.
    TODAS AS TELAS FORAM CRIADAS MANTER O DESIGN VISUAL ORIGINAL DO CANVA.
 
-  >OBJETIVO<
+- >OBJETIVO<
 O projeto foi desenvolvido com a intenção de valorizar o campo, mostrar como ele se conecta com a cidade e destacar sua relevância em nosso cotidiano. Tudo isso por meio de uma experiência visual e interativa, acessível e educativa.
